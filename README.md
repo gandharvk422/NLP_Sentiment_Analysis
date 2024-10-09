@@ -8,14 +8,6 @@ This project is part of the AI-ML internship at Skyhighes Technologies. It aims 
 
 The project consists of the following files:
 
-Here's the revised section as you requested:
-
----
-
-## Project Structure
-
-The project consists of the following files:
-
 * **`Notebook.ipynb`**: This Jupyter notebook contains the complete code for the sentiment analysis project. It walks through the process of loading the IMDb dataset, preprocessing the text data, building and training a neural network model using embedding and LSTM layers, and evaluating the model’s performance. The notebook is structured in a step-by-step manner, allowing users to follow and run the entire sentiment classification workflow.
 
 ## Dataset Used
